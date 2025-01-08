@@ -1,0 +1,37 @@
+body {
+ font-family: Arial, sans-serif;
+ margin: 20px;
+ background-color: #f2f2f2;
+}
+
+header {
+ background-color: #F1C40F;
+ color: #000000;
+ padding: 20px;
+ text-align: center;
+}
+
+.wisata {
+ background-color: #fff;
+ padding: 20px;
+ margin-bottom: 20px;
+ box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.wisata img {
+ width: 50%;
+ height: 300px;
+ object-fit: cover;
+ border-radius: 10px;
+}
+
+.wisata h2 {
+ color: #00698f;
+}
+
+footer {
+ background-color: #F1C40F;
+ color: #000000;
+ padding: 10px;
+ text-align: center;
+}
